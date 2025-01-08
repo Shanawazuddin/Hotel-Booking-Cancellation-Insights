@@ -1,4 +1,5 @@
-![Hotel Booking Cancellation Dashboard](https://github.com/user-attachments/assets/58be4ca3-f87c-46d3-84d0-8ab1f9542401)
+![Hotel booking Cancellation Dashboard screenshot](https://github.com/user-attachments/assets/f94d83ee-0fd7-46e7-8b55-c05890f122f2)
+
 
 
 # Hotel-Booking-Cancellation-Insights

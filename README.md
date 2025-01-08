@@ -1,3 +1,6 @@
+![Hotel Booking Cancellation Dashboard](https://github.com/user-attachments/assets/58be4ca3-f87c-46d3-84d0-8ab1f9542401)
+
+
 # Hotel-Booking-Cancellation-Insights
 
 ## Overview
